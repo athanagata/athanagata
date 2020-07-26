@@ -12,8 +12,6 @@
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-**Languages and Tools:**  
-
-![Atha's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Atha's github stats](https://github-readme-stats.vercel.app/api?username=athanagata&show_icons=true&hide_border=true)
 
 ⭐️ From [athanagata](https://github.com/athanagata)

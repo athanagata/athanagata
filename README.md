@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Atha
 
+![Profile views](https://gpvc.arturio.dev/athanagata)
+
 </a>
 <a href="https://www.facebook.com/atha.nagata">
   <img align="left" alt="Atha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />

@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey 👋, I'm Atha
 
-<!--
-**athanagata/athanagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>
+<a href="https://www.facebook.com/atha.nagata">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
+**Languages and Tools:**  
+
+![Atha's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+
+⭐️ From [athanagata](https://github.com/athanagata)

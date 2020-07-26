@@ -2,7 +2,16 @@
 
 </a>
 <a href="https://www.facebook.com/atha.nagata">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Atha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="steamcommunity.com/id/VATH_">
+  <img align="left" alt="Atha's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+</a>
+<a href=https://www.reddit.com/user/Verroxz">
+  <img align="left" alt="Atha's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://twitter.com/nagata_atha">
+  <img align="left" alt="Atha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />

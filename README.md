@@ -32,6 +32,26 @@ Hi there, I'm **Atha Nagata**, and welcome to my GitHub profile :)
  ‍ 
  ‍ 
  ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
+ ‍ 
 <details>
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />

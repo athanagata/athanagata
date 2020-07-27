@@ -31,8 +31,13 @@ Hi there, I'm **Atha Nagata**, and welcome to my GitHub profile :)
 - 📝 See my [Curriculum Vitae](#) to get more info.
 
   
+ <details>
+<summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
+  <br />
+  
  [![Atha's github stats](https://github-readme-stats.vercel.app/api?username=athanagata)](https://github.com/athanagata/learnify)
  
+  </details>
 
 
 ⭐️ From [athanagata](https://github.com/athanagata)

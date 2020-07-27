@@ -35,7 +35,7 @@ Hi there, I'm **Atha Nagata**, and welcome to my GitHub profile :)
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![Atha's github stats](https://github-readme-stats.vercel.app/api?username=athanagata)]
+ ![Atha's github stats](https://github-readme-stats.vercel.app/api?username=athanagata)
  
   </details>
 

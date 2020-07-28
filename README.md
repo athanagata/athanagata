@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/atha.nagata">
   <img align="left" alt="Atha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="steamcommunity.com/id/VATH_">
+<a href="https://www.steamcommunity.com/id/VATH_">
   <img align="left" alt="Atha's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
 <a href="https://twitter.com/nagata_atha">

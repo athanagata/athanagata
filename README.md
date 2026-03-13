@@ -3,9 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/athanagata)
 
 </a>
-<a href="https://www.facebook.com/atha.nagata">
-  <img align="left" alt="Atha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.steamcommunity.com/id/VATH_">
   <img align="left" alt="Atha's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
@@ -21,7 +18,7 @@
 
 Hi there, I'm **Atha Nagata**, and welcome to my GitHub profile :)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" />
 
 **Talking about Personal Stuffs:**
 

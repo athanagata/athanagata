@@ -22,9 +22,9 @@ Hi there, I'm **Atha Nagata**, and welcome to my GitHub profile :)
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently free during this pandemic lmao;
-- 🤔 My interests are with Photoshop designing;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently free during this pandemic lmao.
+- 🤔 My interests are with Photoshop designing.
+- 💬 Ask me about anything, I am happy to help.
 - 📝 See my [Curriculum Vitae](#) to get more info.
 
   

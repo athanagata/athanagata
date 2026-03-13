@@ -18,8 +18,7 @@
 
 Hi there, I'm **Atha Nagata**, and welcome to my GitHub profile :)
 
-  <img align="right" width="352" alt="GIF" src="![download (14)](https://github.com/user-attachments/assets/4ccd7408-a477-4e18-8075-d2b69581ed59)
-" />
+  <img align="right" width="352" alt="GIF" src="https://github.com/user-attachments/assets/4ccd7408-a477-4e18-8075-d2b69581ed59" />
 
 **Talking about Personal Stuffs:**
 

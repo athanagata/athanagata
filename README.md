@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Atha
 
-![Profile views](https://gpvc.arturio.dev/athanagata)
+![Profile views](https://github.com/athanagata)
 
 </a>
 <a href="https://www.steamcommunity.com/id/VATH_">
